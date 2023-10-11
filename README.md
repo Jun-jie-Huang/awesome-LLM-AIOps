@@ -41,7 +41,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 
 - **LLM As DBA**. Preprint 2023. ![](https://img.shields.io/badge/D_Bot-blue) ![](https://img.shields.io/badge/Prompting(Tree_of_Thought)-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/DB_Administor-brown)
 
-  *Xuanhe Zhou, Guoliang Li, Zhiyuan Liu* [[pdf](https://arxiv.org/pdf/2308.05481.pdf)] [[project](https://github.com/TsinghuaDatabaseGroup/DB-GPT/tree/main#-customize)] 
+  *Xuanhe Zhou, Guoliang Li, Zhiyuan Liu* [[pdf](https://arxiv.org/pdf/2308.05481.pdf)] [[project](https://github.com/TsinghuaDatabaseGroup/DB-GPT)] 
 
 ### LLM for Incident Management
 
