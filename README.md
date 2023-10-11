@@ -49,6 +49,10 @@ This is a list of awesome academic researches and industrial materials about Lar
 
   *Toufique Ahmed, Supriyo Ghosh, Chetan Bansal, Thomas Zimmermann, Xuchao Zhang, Saravan Rajmohan* [[pdf](https://arxiv.org/pdf/2301.03797.pdf)] 
 
+- **A Holistic View of AI-driven Network Incident Management**. HotNets 2023.  ![](https://img.shields.io/badge/Incident_Lifecycle-brown) ![](https://img.shields.io/badge/Analysis-green)
+
+  *Pouya Hamadanian, Behnaz Arzani, Sadjad Fouladi, Siva Kesava Reddy Kakarla, Rodrigo Fonseca, Denizcan Billor, Ahmad Cheema, Edet Nkposong, Ranveer Chandra* [[pdf](https://www.microsoft.com/en-us/research/uploads/prod/2023/09/LLM4IcMs___HotNets__23-6.pdf)] 
+
 
 - **Assess and Summarize: Improve Outage Understanding with Large Language Models**. Preprint 2023. ![](https://img.shields.io/badge/Oasis-blue) ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Outage_Summarization-brown)
 
@@ -59,9 +63,6 @@ This is a list of awesome academic researches and industrial materials about Lar
 
   *Dylan Zhang, Xuchao Zhang, Chetan Bansal, Pedro Las-Casas, Rodrigo Fonseca, Saravan Rajmohan* [[pdf](https://arxiv.org/pdf/2309.05833.pdf)] 
 
-- **A Holistic View of AI-driven Network Incident Management**. Preprint  2023.  ![](https://img.shields.io/badge/Incident_Lifecycle-brown) ![](https://img.shields.io/badge/Analysis-green)
-
-  *Pouya Hamadanian, Behnaz Arzani, Sadjad Fouladi, Siva Kesava Reddy Kakarla, Rodrigo Fonseca, Denizcan Billor, Ahmad Cheema, Edet Nkposong, Ranveer Chandra* [[pdf](https://www.microsoft.com/en-us/research/uploads/prod/2023/09/LLM4IcMs___HotNets__23-6.pdf)] 
 
 ### LLM for Log Analysis
 
