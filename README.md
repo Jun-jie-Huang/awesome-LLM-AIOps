@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-13-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-14-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -10,10 +10,10 @@ A list of awesome academic researches and industrial materials about Large Langu
   - [Introduction](#introduction)
     - [Keywords Convention](#keywords-convention)
   - [Papers](#papers)
-    - [LLM as an Agent/Administrator](LLM-as-an-Agent/Administrator[)
-    - [LLM for Incident Management](LLM-for-Incident-Management)
-    - [LLM for Log Analysis]([LLM-for-Log-Analysis])
-    - [Domain LLM](Domain-LLM)
+    - [LLM as an Agent/Administrator](#LLM-as-an-Agent/Administrator[)
+    - [LLM for Incident Management](#LLM-for-Incident-Management)
+    - [LLM for Log Analysis]([#LLM-for-Log-Analysis])
+    - [Domain LLM](#Domain-LLM)
   - [Contribution](#contribution)
     - [Contributing to this paper list](#contributing-to-this-paper-list)
 
