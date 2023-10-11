@@ -72,7 +72,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 
 - **Log-based Anomaly Detection based on EVT Theory with feedback**. Preprint 2023. ![](https://img.shields.io/badge/LLMParser-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/LogAD-brown)
 
-  *Zhihan Jiang, Jinyang Liu, Zhuangbin Chen, Yichen Li, Junjie Huang, Yintong Huo, Pinjia He, Jiazhen Gu, Michael R. Lyu* [[pdf](https://arxiv.org/pdf/2306.05032.pdf)] 
+  *Jinyang Liu, Junjie Huang, Yintong Huo, Zhihan Jiang, Jiazhen Gu, Zhuangbin Chen, Cong Feng, Minzhi Yan, Michael R. Lyu* [[pdf](https://arxiv.org/pdf/2306.05032.pdf)] 
 
 - **Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study**. Preprint 2023. ![](https://img.shields.io/badge/LogBench-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Logging-brown) ![](https://img.shields.io/badge/Analysis-green)
 
