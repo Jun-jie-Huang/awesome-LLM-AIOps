@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-14-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-17-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -10,10 +10,10 @@ A list of awesome academic researches and industrial materials about Large Langu
   - [Introduction](#introduction)
     - [Keywords Convention](#keywords-convention)
   - [Papers](#papers)
-    - [LLM as an Agent/Administrator](#llm-as-an-agentadministrator)
+    - [LLM Agent](#llm-agent)
     - [LLM for Incident Management](#llm-for-incident-management)
     - [LLM for Log Analysis](#llm-for-log-analysis)
-    - [Domain LLM](#domain-llm)
+    - [AIOps Question Answering](#aiops-question-answering)
   - [Contribution](#contribution)
     - [Contributing to this paper list](#contributing-to-this-paper-list)
 
@@ -33,7 +33,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 
 
 ## Papers
-### LLM as an Agent/Administrator
+### LLM Agent
 
 - **Automatic Root Cause Analysis via Large Language Models for Cloud Incidents**. EuroSys 2024. ![](https://img.shields.io/badge/RCACopilot-blue) ![](https://img.shields.io/badge/Prompting(CoT)-red)  ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/RCA_Classification-brown)
 
@@ -95,11 +95,23 @@ This is a list of awesome academic researches and industrial materials about Lar
 
   *Zhihan Jiang, Jinyang Liu, Zhuangbin Chen, Yichen Li, Junjie Huang, Yintong Huo, Pinjia He, Jiazhen Gu, Michael R. Lyu* [[pdf](https://arxiv.org/pdf/2310.01796.pdf)] 
 
-### Domain LLM
+### AIOps Question Answering
 
-- **OWL: A Large Language Model for IT Operations**. Preprint 2023. ![](https://img.shields.io/badge/OWL-blue) ![](https://img.shields.io/badge/Instrcuction_Tuning-red) ![](https://img.shields.io/badge/LogAD-brown) ![](https://img.shields.io/badge/Log_Parsing-brown) ![](https://img.shields.io/badge/Domain_LLM-green)
+- **Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering**. Preprint 2023. ![](https://img.shields.io/badge/MSQA-blue) ![](https://img.shields.io/badge/Instrcuction_Tuning-red) ![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Benchmark-green)
+
+  *Zezhong Wang, Fangkai Yang, Pu Zhao, Lu Wang, Jue Zhang, Mohit Garg, Qingwei Lin, Dongmei Zhang* [[pdf](https://arxiv.org/pdf/2305.11541.pdf)] [[project](https://github.com/ModelInteraction/MSQA)] 
+
+- **OWL: A Large Language Model for IT Operations**. Preprint 2023. ![](https://img.shields.io/badge/OWL-blue) ![](https://img.shields.io/badge/Instrcuction_Tuning-red) ![](https://img.shields.io/badge/LogAD-brown) ![](https://img.shields.io/badge/Log_Parsing-brown)![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Domain_LLM-green)![](https://img.shields.io/badge/Benchmark-green)
 
   *Hongcheng Guo, Jian Yang, Jiaheng Liu, Liqun Yang, Linzheng Chai, Jiaqi Bai, Junran Peng, Xiaorong Hu, Chao Chen, Dongfeng Zhang, Xu Shi, Tieqiao Zheng, Liangfan Zheng, Bo Zhang, Ke Xu, Zhoujun Li* [[pdf](https://arxiv.org/pdf/2309.09298.pdf)] [[project](https://github.com/HC-Guo/Owl)] 
+
+- **An Empirical Study of NetOps Capability of Pre-Trained Large Language Models**. Preprint 2023. ![](https://img.shields.io/badge/NetEval-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Benchmark-green)
+
+  *Yukai Miao, Yu Bai, Li Chen, Dan Li, Haifeng Sun, Xizheng Wang, Ziqiu Luo, Yanyu Ren, Dapeng Sun, Xiuting Xu, Qi Zhang, Chao Xiang, Xinchi Li* [[pdf](https://arxiv.org/pdf/2309.05557.pdf)] [[project](https://huggingface.co/datasets/NASP/neteval-exam)] 
+
+- **OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**. Preprint 2023. ![](https://img.shields.io/badge/OpsEval-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Benchmark-green)
+
+  *Yuhe Liu, Changhua Pei, Longlong Xu, Bohan Chen, Mingze Sun, Zhirui Zhang, Yongqian Sun, Shenglin Zhang, Kun Wang, Haiming Zhang, Jianhui Li, Gaogang Xie, Xidao Wen, Xiaohui Nie, Dan Pei* [[pdf](https://arxiv.org/pdf/2310.07637.pdf)] [[project](https://opseval.cstcloud.cn/content/home#home)] 
 
 
 
