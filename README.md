@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-17-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-18-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -42,6 +42,10 @@ This is a list of awesome academic researches and industrial materials about Lar
 - **LLM As DBA**. Preprint 2023. ![](https://img.shields.io/badge/D_Bot-blue) ![](https://img.shields.io/badge/Prompting(Tree_of_Thought)-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/DB_Administor-brown)
 
   *Xuanhe Zhou, Guoliang Li, Zhiyuan Liu* [[pdf](https://arxiv.org/pdf/2308.05481.pdf)] [[project](https://github.com/TsinghuaDatabaseGroup/DB-GPT)] 
+
+- **RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models**. Preprint 2023. ![](https://img.shields.io/badge/RCAgent-blue) ![](https://img.shields.io/badge/LLM_Agent-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/RCA-brown)
+
+  *Zefan Wang, Zichuan Liu, Yingying Zhang, Aoxiao Zhong, Lunting Fan, Lingfei Wu, Qingsong Wen* [[pdf](https://arxiv.org/pdf/2310.16340.pdf)]
 
 ### LLM for Incident Management
 
