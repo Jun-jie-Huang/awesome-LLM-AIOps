@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-43-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-42-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -40,6 +40,10 @@ This is a list of awesome academic researches and industrial materials about Lar
 
 ## 1. LLM for Incident Management
 
+#### 1.0 Survey
+
+1. [**Preprint 2024**] [A Survey of AIOps for Failure Management in the Era of Large Language Models](https://arxiv.org/pdf/2406.11213).
+
 #### 1.1 Incident Lifecycle
 
 1. [**HotNets 2023**] [A Holistic View of AI-driven Network Incident Management](https://www.microsoft.com/en-us/research/uploads/prod/2023/09/LLM4IcMs___HotNets__23-6.pdf). ![](https://img.shields.io/badge/Incident_Lifecycle-brown) ![](https://img.shields.io/badge/Analysis-green)
@@ -65,7 +69,8 @@ This is a list of awesome academic researches and industrial materials about Lar
 #### 1.4 Incident Mitigation
 
 1. [**FSE Industry 2024**] [Leveraging Large Language Models for the Auto-remediation of Microservice Applications - An Experimental Study](https://dl.acm.org/doi/pdf/10.1145/3663529.3663855).  ![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
-1. [**Preprint 2024**] [Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides](https://arxiv.org/pdf/2402.17531).![](https://img.shields.io/badge/Nissist-blue) ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
+1. [**ECAI 2024**] [Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides](https://arxiv.org/pdf/2402.17531).![](https://img.shields.io/badge/Nissist-blue) ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
+1. [**SIGOPS 2024**] [LLexus: an AI agent system for incident management](https://www.microsoft.com/en-us/research/publication/llexus-an-ai-agent-system-for-incident-management/).![](https://img.shields.io/badge/LLexus-blue) ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Mitigation_Generation-brown)
 
 #### 1.5 Incident Postmortem Analysis
 
@@ -76,8 +81,9 @@ This is a list of awesome academic researches and industrial materials about Lar
 
 1. [**EMNLP Industry 2023**] [Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering](https://aclanthology.org/2023.emnlp-industry.29.pdf) [[project](https://github.com/ModelInteraction/MSQA)]. ![](https://img.shields.io/badge/MSQA-blue) ![](https://img.shields.io/badge/Instrcuction_Tuning-red) ![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Benchmark-green)
 2. [**ICLR 2024**] [OWL: A Large Language Model for IT Operations](https://openreview.net/pdf?id=SZOQ9RKYJu) [[project](https://github.com/HC-Guo/Owl)]. ![](https://img.shields.io/badge/OWL-blue) ![](https://img.shields.io/badge/Instrcuction_Tuning-red) ![](https://img.shields.io/badge/LogAD-brown) ![](https://img.shields.io/badge/Log_Parsing-brown)![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Domain_LLM-green)![](https://img.shields.io/badge/Benchmark-green)
-3. [**Preprint 2023**] [An Empirical Study of NetOps Capability of Pre-Trained Large Language Models](https://arxiv.org/pdf/2309.05557.pdf) [[project](https://huggingface.co/datasets/NASP/neteval-exam)]. ![](https://img.shields.io/badge/NetEval-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Benchmark-green)
-4. [**Preprint 2023**] [OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models](https://arxiv.org/pdf/2310.07637.pdf) [[project](https://opseval.cstcloud.cn/content/home#home)]. ![](https://img.shields.io/badge/OpsEval-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Benchmark-green)
+3. [**SANER 2024**] [Gloss: Guiding Large Language Models to Answer Questions from System Logs](https://ieeexplore.ieee.org/abstract/document/10589781). ![](https://img.shields.io/badge/Gloss-blue) ![](https://img.shields.io/badge/Data_Synthesis-red) ![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Benchmark-green)
+4. [**Preprint 2023**] [An Empirical Study of NetOps Capability of Pre-Trained Large Language Models](https://arxiv.org/pdf/2309.05557.pdf) [[project](https://huggingface.co/datasets/NASP/neteval-exam)]. ![](https://img.shields.io/badge/NetEval-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Benchmark-green)
+5. [**Preprint 2023**] [OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models](https://arxiv.org/pdf/2310.07637.pdf) [[project](https://opseval.cstcloud.cn/content/home#home)]. ![](https://img.shields.io/badge/OpsEval-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/QuestionAnswering-brown) ![](https://img.shields.io/badge/Benchmark-green)
 
 ## 2. LLM for Log Analysis
 
