@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-42-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-43-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -99,6 +99,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 8. [**Preprint 2024**] [Stronger, Cheaper and Demonstration-Free Log Parsing with LLMs](https://arxiv.org/pdf/2406.06156). ![](https://img.shields.io/badge/LogBatcher-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Log_Parsing-brown)
 9. [**Preprint 2024**] [LUNAR: Unsupervised LLM-based Log Parsing](https://arxiv.org/pdf/2406.07174). ![](https://img.shields.io/badge/LUNAR-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/LRU-red) ![](https://img.shields.io/badge/Log_Parsing-brown)
 10. [**Preprint 2024**] [Log Parsing with Self-Generated In-Context Learning and Self-Correction](https://arxiv.org/pdf/2406.03376). ![](https://img.shields.io/badge/AdaParser-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Log_Parsing-brown)
+11. [**Preprint 2024**] [OpenLogParser: Unsupervised Parsing with Open-Source Large Language Models](https://www.arxiv.org/pdf/2408.01585). ![](https://img.shields.io/badge/OpenLogParser-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Log_Parsing-brown)
 
 #### 2.2 Log Anomaly Detection
 
