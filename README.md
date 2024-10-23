@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-43-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-53-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -43,39 +43,47 @@ This is a list of awesome academic researches and industrial materials about Lar
 #### 1.0 Survey
 
 1. [**Preprint 2024**] [A Survey of AIOps for Failure Management in the Era of Large Language Models](https://arxiv.org/pdf/2406.11213).
+2. [**Preprint 2024**] [AI Assistants for Incident Lifecycle in a Microservice Environment: A Systematic Literature Review](https://arxiv.org/pdf/2410.04334).
 
-#### 1.1 Incident Lifecycle
+#### 1.1 Incident Diagnosis
 
-1. [**HotNets 2023**] [A Holistic View of AI-driven Network Incident Management](https://www.microsoft.com/en-us/research/uploads/prod/2023/09/LLM4IcMs___HotNets__23-6.pdf). ![](https://img.shields.io/badge/Incident_Lifecycle-brown) ![](https://img.shields.io/badge/Analysis-green)
+1. [**SoCC 2024**] [Building AI Agents for Autonomous Clouds: Challenges and Design Principles](https://arxiv.org/pdf/2407.12165). ![](https://img.shields.io/badge/Vision_Paper-green)
+2. [**VLDB 2024**] [D-Bot: Database Diagnosis System using Large Language Models](https://arxiv.org/pdf/2312.01454.pdf) [[project](https://github.com/TsinghuaDatabaseGroup/DB-GPT)]. ![](https://img.shields.io/badge/D_Bot-blue) ![](https://img.shields.io/badge/Prompting(Tree_of_Thought)-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/DB_Administor-brown)
+3. [**HotNets 2023**] [A Holistic View of AI-driven Network Incident Management](https://www.microsoft.com/en-us/research/uploads/prod/2023/09/LLM4IcMs___HotNets__23-6.pdf). ![](https://img.shields.io/badge/Incident_Lifecycle-brown) ![](https://img.shields.io/badge/Analysis-green)
+4. [**Preprint 2024**] [FLASH: A Workflow Automation Agent for Diagnosing Recurring Incidents](https://www.microsoft.com/en-us/research/uploads/prod/2024/10/FLASH_Paper.pdf). ![](https://img.shields.io/badge/FLASH-blue) ![](https://img.shields.io/badge/Incident_Diagnosis-brown)
+5. [**Preprint 2024**] [AIOpsLab: A Holistic Framework for Evaluating AI Agents for Enabling Autonomous Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2024/10/AIOpsLab-6705feab5dcdb.pdf). ![](https://img.shields.io/badge/AIOpsLab-blue) ![](https://img.shields.io/badge/Benchmark-brown)
 
 #### 1.2 Incident Reporting
 
-1. [**ESEC/FSE Industry 2023**] [Assess and Summarize: Improve Outage Understanding with Large Language Models](https://arxiv.org/pdf/2305.18084). ![](https://img.shields.io/badge/Oasis-blue) ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Outage_Summarization-brown)
-2. [**ICSE-SEIP 2024**] [Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach](https://arxiv.org/pdf/2403.06485.pdf). ![](https://img.shields.io/badge/COLA-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Alert_Aggregation-brown)
+1. [**ICSE-SEIP 2024**] [Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach](https://arxiv.org/pdf/2403.06485.pdf). ![](https://img.shields.io/badge/COLA-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Alert_Aggregation-brown)
+2. [**ISSRE 2024**] [Large Language Models Can Provide Accurate and Interpretable Incident Triage](https://www.microsoft.com/en-us/research/uploads/prod/2024/08/ISSRE24_LLM4triage.pdf). ![](https://img.shields.io/badge/COMET-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Incident_Triage-brown)
 3. [**FSE Industry 2024**] [MonitorAssistant: Simplifying Cloud Service Monitoring via Large Language Models](https://netman.aiops.org/wp-content/uploads/2024/07/MonitorAssistant_CameraReady-v1.5_submitted.pdf). ![](https://img.shields.io/badge/MonitorAssistant-blue) ![](https://img.shields.io/badge/Anomaly_Detection-brown)
+4. [**ESEC/FSE Industry 2023**] [Assess and Summarize: Improve Outage Understanding with Large Language Models](https://arxiv.org/pdf/2305.18084). ![](https://img.shields.io/badge/Oasis-blue) ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Outage_Summarization-brown)
+5. [**Preprint 2024**] [Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection](https://arxiv.org/pdf/2405.15370v1). ![](https://img.shields.io/badge/LLMAD-blue) ![](https://img.shields.io/badge/Prompting(CoT)-red) ![](https://img.shields.io/badge/Anomaly_Detection-brown)
 
 #### 1.3 Root Cause Analysis
 
-1. [**ICSE 2024**] [Xpert: Empowering Incident Management with Query Recommendations via Large Language Models](https://arxiv.org/pdf/2312.11988). ![](https://img.shields.io/badge/Xpert-blue)![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Diagnosis_Query_Generation-brown)
-2. [**ICSE 2023**] [Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models](https://arxiv.org/pdf/2301.03797.pdf). ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Root_Cause_Generation-brown)
+1. [**ASE 2024**] [The Potential of One-Shot Failure Root Cause Analysis: Collaboration of the Large Language Model and Small Classifier](https://dl.acm.org/doi/10.1145/3691620.3695475). ![](https://img.shields.io/badge/LasRCA-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Fault_Classification-brown)
 3. [**FSE Industry 2024**] [LM-PACE: Confidence Estimation by Large Language Models for Effective Root Causing of Cloud Incidents](https://arxiv.org/pdf/2309.05833.pdf). ![](https://img.shields.io/badge/PACE_LM-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/RCA_Confidence_Estimation-brown)
 4. [**FSE Industry 2024**] [Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4](https://arxiv.org/pdf/2401.13810v1.pdf). ![](https://img.shields.io/badge/Prompting(ICL)-red)![](https://img.shields.io/badge/Root_Cause_Generation-brown)
 5. [**FSE Industry 2024**] [X-lifecycle Learning for Cloud Incident Management using LLMs](https://arxiv.org/pdf/2404.03662). ![](https://img.shields.io/badge/Prompting(ICL)-red)![](https://img.shields.io/badge/Root_Cause_Generation-brown)
 6. [**FSE Industry 2024**] [Exploring LLM-based Agents for Root Cause Analysis](https://arxiv.org/pdf/2403.04123). ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Generation-brown)
-10. [**VLDB 2024**] [D-Bot: Database Diagnosis System using Large Language Models](https://arxiv.org/pdf/2312.01454.pdf) [[project](https://github.com/TsinghuaDatabaseGroup/DB-GPT)]. ![](https://img.shields.io/badge/D_Bot-blue) ![](https://img.shields.io/badge/Prompting(Tree_of_Thought)-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/DB_Administor-brown)
-11. [**Preprint 2023**] [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/pdf/2310.16340.pdf). ![](https://img.shields.io/badge/RCAgent-blue) ![](https://img.shields.io/badge/LLM_Agent-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/RCA-brown)
-12. [**Preprint 2024**] [mABC: Multi-Agent Blockchain-inspired Collaboration for Root Cause Analysis in Micro-Services Architecture](https://arxiv.org/pdf/2404.12135). ![](https://img.shields.io/badge/mABC-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Localization-brown)
+7. [**ICSE 2024**] [Xpert: Empowering Incident Management with Query Recommendations via Large Language Models](https://arxiv.org/pdf/2312.11988). ![](https://img.shields.io/badge/Xpert-blue)![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Diagnosis_Query_Generation-brown)
+8. [**ICSE 2023**] [Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models](https://arxiv.org/pdf/2301.03797.pdf). ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Root_Cause_Generation-brown)
+9. [**Preprint 2023**] [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/pdf/2310.16340.pdf). ![](https://img.shields.io/badge/RCAgent-blue) ![](https://img.shields.io/badge/LLM_Agent-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/RCA-brown)
+10. [**Preprint 2024**] [mABC: Multi-Agent Blockchain-inspired Collaboration for Root Cause Analysis in Micro-Services Architecture](https://arxiv.org/pdf/2404.12135). ![](https://img.shields.io/badge/mABC-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Localization-brown)
+11. [**Preprint 2024**] [Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight](https://arxiv.org/pdf/2407.08694). ![](https://img.shields.io/badge/Atlas-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
 
 #### 1.4 Incident Mitigation
 
-1. [**FSE Industry 2024**] [Leveraging Large Language Models for the Auto-remediation of Microservice Applications - An Experimental Study](https://dl.acm.org/doi/pdf/10.1145/3663529.3663855).  ![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
-1. [**ECAI 2024**] [Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides](https://arxiv.org/pdf/2402.17531).![](https://img.shields.io/badge/Nissist-blue) ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
 1. [**SIGOPS 2024**] [LLexus: an AI agent system for incident management](https://www.microsoft.com/en-us/research/publication/llexus-an-ai-agent-system-for-incident-management/).![](https://img.shields.io/badge/LLexus-blue) ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Mitigation_Generation-brown)
+2. [**FSE Industry 2024**] [Leveraging Large Language Models for the Auto-remediation of Microservice Applications - An Experimental Study](https://dl.acm.org/doi/pdf/10.1145/3663529.3663855).  ![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
+3. [**ECAI 2024**] [Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides](https://arxiv.org/pdf/2402.17531).![](https://img.shields.io/badge/Nissist-blue) ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
 
 #### 1.5 Incident Postmortem Analysis
 
-1. [**ICSE-SEIP 2024**] [FaultProfIT: Hierarchical Fault Profiling of Incident Tickets in Large-scale Cloud Systems](https://dl.acm.org/doi/pdf/10.1145/3639477.3639754).![](https://img.shields.io/badge/FaultProfIT-blue) ![](https://img.shields.io/badge/Finetuning-red)![](https://img.shields.io/badge/Faul_Profiling-brown)
-2. [**Preprint 2024**] [FAIL: Analyzing Software Failures from the News Using LLMs](https://arxiv.org/pdf/2406.08221).![](https://img.shields.io/badge/FAIL-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Failure_Analysis-brown)
+1. [**ICSE-SEIP 2024**] [FaultProfIT: Hierarchical Fault Profiling of Incident Tickets in Large-scale Cloud Systems](https://dl.acm.org/doi/pdf/10.1145/3639477.3639754).![](https://img.shields.io/badge/FaultProfIT-blue) ![](https://img.shields.io/badge/Finetuning-red)![](https://img.shields.io/badge/Fault_Profiling-brown)
+2. [**ASE 2024**] [FAIL: Analyzing Software Failures from the News Using LLMs](https://arxiv.org/pdf/2406.08221).![](https://img.shields.io/badge/FAIL-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Failure_Analysis-brown)
 
 #### 1.6 AIOps Question Answering
 
@@ -112,9 +120,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 #### 2.3 Logging Statement Generation
 
 1. [**ICSE 2024**] [UniLog: Automatic Logging via LLM and In-Context Learning](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a129/1RLIWpCelqg). ![](https://img.shields.io/badge/UniLog-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/Cache-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
-
 2. [**FSE 2024**] [Go Static: Contextualized Logging Statement Generation](https://arxiv.org/pdf/2402.12958.pdf). ![](https://img.shields.io/badge/SCLogger-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
-
 3. [**TSE 2024**] [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/pdf/2307.05950.pdf) [[project](https://github.com/LogStudySE/LogStudy)]. ![](https://img.shields.io/badge/LogBench-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown) ![](https://img.shields.io/badge/Analysis-green)
 
    
