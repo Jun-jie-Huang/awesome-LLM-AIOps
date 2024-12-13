@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-53-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-52-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -79,6 +79,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 1. [**SIGOPS 2024**] [LLexus: an AI agent system for incident management](https://www.microsoft.com/en-us/research/publication/llexus-an-ai-agent-system-for-incident-management/).![](https://img.shields.io/badge/LLexus-blue) ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Mitigation_Generation-brown)
 2. [**FSE Industry 2024**] [Leveraging Large Language Models for the Auto-remediation of Microservice Applications - An Experimental Study](https://dl.acm.org/doi/pdf/10.1145/3663529.3663855).  ![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
 3. [**ECAI 2024**] [Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides](https://arxiv.org/pdf/2402.17531).![](https://img.shields.io/badge/Nissist-blue) ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
+4. [**Preprint 2024**] [Retrieval Augmented Generation-Based Incident Resolution Recommendation System for IT Support](https://arxiv.org/pdf/2409.13707).  ![](https://img.shields.io/badge/Mitigation_Action_Generation-brown)
 
 #### 1.5 Incident Postmortem Analysis
 
