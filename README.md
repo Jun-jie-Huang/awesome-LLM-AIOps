@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-53-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-54-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -114,10 +114,11 @@ This is a list of awesome academic researches and industrial materials about Lar
 #### 2.2 Log Anomaly Detection
 
 1. [**ICPC 2024**] [Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies](https://arxiv.org/pdf/2308.07610.pdf). ![](https://img.shields.io/badge/LogPrompt-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/LogAD-brown) ![](https://img.shields.io/badge/Log_Parsing-brown)
-2. [**Preprint 2023**] [Log-based Anomaly Detection based on EVT Theory with feedback](https://arxiv.org/pdf/2306.05032.pdf). ![](https://img.shields.io/badge/ScaleAD-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/LogAD-brown)
-3. [**Preprint 2023**] [LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection](https://arxiv.org/pdf/2309.01189.pdf). ![](https://img.shields.io/badge/LogGPT-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/LogAD-brown)
-4. [**Preprint 2024**] [RAGLog: Log Anomaly Detection using Retrieval Augmented Generation](https://arxiv.org/pdf/2311.05261.pdf). ![](https://img.shields.io/badge/RAGLog-blue) ![](https://img.shields.io/badge/Prompting(RAG)-red) ![](https://img.shields.io/badge/LogAD-brown)
-5. [**Preprint 2024**] [Anomaly Detection on Unstable Logs with GPT Models](https://arxiv.org/pdf/2406.07467).  ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/LogAD-brown)
+2. [**ISSRE 2024**] [LLMeLog: An Approach for Anomaly Detection based on LLM-enriched Log Events](https://ieeexplore.ieee.org/abstract/document/10771398). ![](https://img.shields.io/badge/LogPrompt-blue) ![](https://img.shields.io/badge/LLMeLog-red) ![](https://img.shields.io/badge/LogAD-brown) 
+3. [**Preprint 2023**] [Log-based Anomaly Detection based on EVT Theory with feedback](https://arxiv.org/pdf/2306.05032.pdf). ![](https://img.shields.io/badge/ScaleAD-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/LogAD-brown)
+4. [**Preprint 2023**] [LogGPT: Exploring ChatGPT for Log-Based Anomaly Detection](https://arxiv.org/pdf/2309.01189.pdf). ![](https://img.shields.io/badge/LogGPT-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/LogAD-brown)
+5. [**Preprint 2024**] [RAGLog: Log Anomaly Detection using Retrieval Augmented Generation](https://arxiv.org/pdf/2311.05261.pdf). ![](https://img.shields.io/badge/RAGLog-blue) ![](https://img.shields.io/badge/Prompting(RAG)-red) ![](https://img.shields.io/badge/LogAD-brown)
+6. [**Preprint 2024**] [Anomaly Detection on Unstable Logs with GPT Models](https://arxiv.org/pdf/2406.07467).  ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/LogAD-brown)
 
 #### 2.3 Logging Statement Generation
 
