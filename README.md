@@ -74,6 +74,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 9. [**CIKM 2024**] [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/pdf/2310.16340.pdf). ![](https://img.shields.io/badge/RCAgent-blue) ![](https://img.shields.io/badge/LLM_Agent-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/Root_Cause_Generation-brown)
 10. [**EMNLP 2024 (Findings)**] [mABC: Multi-Agent Blockchain-inspired Collaboration for Root Cause Analysis in Micro-Services Architecture](https://arxiv.org/pdf/2404.12135). ![](https://img.shields.io/badge/mABC-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Localization-brown)
 11. [**Preprint 2024**] [Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight](https://arxiv.org/pdf/2407.08694). ![](https://img.shields.io/badge/Atlas-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
+12. [**ICLR 2025**] [OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?](https://openreview.net/pdf?id=M4qNIzQYpd). ![](https://img.shields.io/badge/OpenRCA-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Localization-brown)![](https://img.shields.io/badge/Benchmark-green)
 
 #### 1.4 Incident Mitigation
 
