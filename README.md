@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-54-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-55-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -124,9 +124,8 @@ This is a list of awesome academic researches and industrial materials about Lar
 #### 2.3 Logging Statement Generation
 
 1. [**ICSE 2024**] [UniLog: Automatic Logging via LLM and In-Context Learning](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a129/1RLIWpCelqg). ![](https://img.shields.io/badge/UniLog-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/Cache-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
-https://arxiv.org/abs/2311.02862
 2. [**FSE 2024**] [Go Static: Contextualized Logging Statement Generation](https://arxiv.org/pdf/2402.12958.pdf). ![](https://img.shields.io/badge/SCLogger-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
-3. [**ISSTA 2024**] [FastLog: An End-to-End Method to Efficiently Generate and Insert Logging Statements](https://arxiv.org/abs/2410.17401). ![](https://img.shields.io/badge/FastLog-blue) ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
+3. [**ISSTA 2024**] [FastLog: An End-to-End Method to Efficiently Generate and Insert Logging Statements](https://arxiv.org/pdf/2311.02862). ![](https://img.shields.io/badge/FastLog-blue) ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
 4. [**TSE 2024**] [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/pdf/2307.05950.pdf) [[project](https://github.com/LogStudySE/LogStudy)]. ![](https://img.shields.io/badge/LogBench-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown) ![](https://img.shields.io/badge/Analysis-green)
 
    
