@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-54-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-60-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -40,18 +40,20 @@ This is a list of awesome academic researches and industrial materials about Lar
 
 ## 1. LLM for Incident Management
 
-#### 1.0 Survey
+#### 1.0 Survey & Benchmark
 
 1. [**Preprint 2024**] [A Survey of AIOps for Failure Management in the Era of Large Language Models](https://arxiv.org/pdf/2406.11213).
 2. [**Preprint 2024**] [AI Assistants for Incident Lifecycle in a Microservice Environment: A Systematic Literature Review](https://arxiv.org/pdf/2410.04334).
+3. [**MLSys 2025**] [AIOpsLab: A Holistic Framework for Evaluating AI Agents for Enabling Autonomous Cloud](https://arxiv.org/pdf/2501.06706). ![](https://img.shields.io/badge/AIOpsLab-blue) ![](https://img.shields.io/badge/Benchmark-brown)
+4. [**ICML 2025**] [ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks](https://arxiv.org/pdf/2502.05352). ![](https://img.shields.io/badge/ITBench-blue) ![](https://img.shields.io/badge/Benchmark-brown)
 
-#### 1.1 Incident Diagnosis
+#### 1.1 Incident Management
 
 1. [**SoCC 2024**] [Building AI Agents for Autonomous Clouds: Challenges and Design Principles](https://arxiv.org/pdf/2407.12165). ![](https://img.shields.io/badge/Vision_Paper-green)
 2. [**VLDB 2024**] [D-Bot: Database Diagnosis System using Large Language Models](https://arxiv.org/pdf/2312.01454.pdf) [[project](https://github.com/TsinghuaDatabaseGroup/DB-GPT)]. ![](https://img.shields.io/badge/D_Bot-blue) ![](https://img.shields.io/badge/Prompting(Tree_of_Thought)-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/DB_Administor-brown)
 3. [**HotNets 2023**] [A Holistic View of AI-driven Network Incident Management](https://www.microsoft.com/en-us/research/uploads/prod/2023/09/LLM4IcMs___HotNets__23-6.pdf). ![](https://img.shields.io/badge/Incident_Lifecycle-brown) ![](https://img.shields.io/badge/Analysis-green)
 4. [**Preprint 2024**] [FLASH: A Workflow Automation Agent for Diagnosing Recurring Incidents](https://www.microsoft.com/en-us/research/uploads/prod/2024/10/FLASH_Paper.pdf). ![](https://img.shields.io/badge/FLASH-blue) ![](https://img.shields.io/badge/Incident_Diagnosis-brown)
-5. [**Preprint 2024**] [AIOpsLab: A Holistic Framework for Evaluating AI Agents for Enabling Autonomous Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2024/10/AIOpsLab-6705feab5dcdb.pdf). ![](https://img.shields.io/badge/AIOpsLab-blue) ![](https://img.shields.io/badge/Benchmark-brown)
+5. [**NSDI 2024**] [NetAssistant: Dialogue Based Network Diagnosis in Data Center Networks](https://www.usenix.org/system/files/nsdi24-wang-haopei.pdf). ![](https://img.shields.io/badge/NetAssistant-blue) ![](https://img.shields.io/badge/Incident_Diagnosis-brown)
 
 #### 1.2 Incident Reporting
 
@@ -73,7 +75,10 @@ This is a list of awesome academic researches and industrial materials about Lar
 8. [**FSE Industry 2024**] [Exploring LLM-based Agents for Root Cause Analysis](https://arxiv.org/pdf/2403.04123). ![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Generation-brown)
 9. [**CIKM 2024**] [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/pdf/2310.16340.pdf). ![](https://img.shields.io/badge/RCAgent-blue) ![](https://img.shields.io/badge/LLM_Agent-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/Root_Cause_Generation-brown)
 10. [**EMNLP 2024 (Findings)**] [mABC: Multi-Agent Blockchain-inspired Collaboration for Root Cause Analysis in Micro-Services Architecture](https://arxiv.org/pdf/2404.12135). ![](https://img.shields.io/badge/mABC-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Localization-brown)
-11. [**Preprint 2024**] [Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight](https://arxiv.org/pdf/2407.08694). ![](https://img.shields.io/badge/Atlas-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
+11. [**WWW industry 2025**] [Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis](https://www.arxiv.org/pdf/2502.08224). ![](https://img.shields.io/badge/Flow_of_Action-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Analysis-brown)
+12. [**Preprint 2024**] [Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight](https://arxiv.org/pdf/2407.08694). ![](https://img.shields.io/badge/Atlas-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
+13. [**Preprint 2025**] [AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents](https://arxiv.org/pdf/2504.06614)  ![](https://img.shields.io/badge/AgentFM-blue) ![](https://img.shields.io/badge/Agent-red) ![](https://img.shields.io/badge/Root_Cause_Analysis-green)
+14. [**Preprint 2025**] [ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.18776). ![](https://img.shields.io/badge/ThinkFL-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
 
 #### 1.4 Incident Mitigation
 
@@ -106,10 +111,11 @@ This is a list of awesome academic researches and industrial materials about Lar
 5. [**FSE 2024**] [LILAC: Log Parsing using LLMs with Adaptive Parsing Cache](https://arxiv.org/pdf/2310.01796.pdf). ![](https://img.shields.io/badge/LILAC-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/Cache-red) ![](https://img.shields.io/badge/Log_Parsing-brown)
 6. [**ICPC 2024**] [Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies](https://arxiv.org/pdf/2308.07610.pdf). ![](https://img.shields.io/badge/LogPrompt-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/LogAD-brown) ![](https://img.shields.io/badge/Log_Parsing-brown)
 7. [**Preprint 2024**] [LEMUR : Log Parsing with Entropy Sampling and Chain-of-Thought Merging](https://arxiv.org/pdf/2402.18205.pdf). ![](https://img.shields.io/badge/LEMUR-blue) ![](https://img.shields.io/badge/Prompting(CoT)-red) ![](https://img.shields.io/badge/LogParsing-brown)
-8. [**Preprint 2024**] [Stronger, Cheaper and Demonstration-Free Log Parsing with LLMs](https://arxiv.org/pdf/2406.06156). ![](https://img.shields.io/badge/LogBatcher-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Log_Parsing-brown)
-9. [**Preprint 2024**] [LUNAR: Unsupervised LLM-based Log Parsing](https://arxiv.org/pdf/2406.07174). ![](https://img.shields.io/badge/LUNAR-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/LRU-red) ![](https://img.shields.io/badge/Log_Parsing-brown)
-10. [**Preprint 2024**] [Log Parsing with Self-Generated In-Context Learning and Self-Correction](https://arxiv.org/pdf/2406.03376). ![](https://img.shields.io/badge/AdaParser-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Log_Parsing-brown)
-11. [**Preprint 2024**] [OpenLogParser: Unsupervised Parsing with Open-Source Large Language Models](https://www.arxiv.org/pdf/2408.01585). ![](https://img.shields.io/badge/OpenLogParser-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Log_Parsing-brown)
+8. [**Preprint 2024**] [HELP: Hierarchical Embeddings-based Log Parsing](https://arxiv.org/pdf/2402.18205.pdf). ![](https://img.shields.io/badge/HELP-blue) ![](https://img.shields.io/badge/Prompting(CoT)-red) ![](https://img.shields.io/badge/LogParsing-brown)
+9. [**ASE 2024**] [Stronger, Cheaper and Demonstration-Free Log Parsing with LLMs](https://arxiv.org/pdf/2406.06156). ![](https://img.shields.io/badge/LogBatcher-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Log_Parsing-brown)
+10. [**ICPC 2025**] [Log Parsing with Self-Generated In-Context Learning and Self-Correction](https://arxiv.org/pdf/2406.03376). ![](https://img.shields.io/badge/AdaParser-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Log_Parsing-brown)
+11. [**ICSE 2025**] [LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models](https://www.arxiv.org/pdf/2408.01585). ![](https://img.shields.io/badge/LiberLog-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Log_Parsing-brown)
+12. [**FSE 2025**] [No More Labelled Examples? An Unsupervised Log Parser with LLMs](https://arxiv.org/pdf/2406.07174). ![](https://img.shields.io/badge/LUNAR-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/LRU-red) ![](https://img.shields.io/badge/Log_Parsing-brown)
 
 #### 2.2 Log Anomaly Detection
 
