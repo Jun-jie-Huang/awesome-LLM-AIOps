@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-60-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-61-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -76,9 +76,10 @@ This is a list of awesome academic researches and industrial materials about Lar
 9. [**CIKM 2024**] [RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Large Language Models](https://arxiv.org/pdf/2310.16340.pdf). ![](https://img.shields.io/badge/RCAgent-blue) ![](https://img.shields.io/badge/LLM_Agent-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/Root_Cause_Generation-brown)
 10. [**EMNLP 2024 (Findings)**] [mABC: Multi-Agent Blockchain-inspired Collaboration for Root Cause Analysis in Micro-Services Architecture](https://arxiv.org/pdf/2404.12135). ![](https://img.shields.io/badge/mABC-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Localization-brown)
 11. [**WWW industry 2025**] [Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis](https://www.arxiv.org/pdf/2502.08224). ![](https://img.shields.io/badge/Flow_of_Action-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Analysis-brown)
-12. [**Preprint 2024**] [Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight](https://arxiv.org/pdf/2407.08694). ![](https://img.shields.io/badge/Atlas-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
-13. [**Preprint 2025**] [AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents](https://arxiv.org/pdf/2504.06614)  ![](https://img.shields.io/badge/AgentFM-blue) ![](https://img.shields.io/badge/Agent-red) ![](https://img.shields.io/badge/Root_Cause_Analysis-green)
-14. [**Preprint 2025**] [ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.18776). ![](https://img.shields.io/badge/ThinkFL-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
+12. [**ICLR 2025**] [OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?](https://openreview.net/pdf?id=M4qNIzQYpd). ![](https://img.shields.io/badge/OpenRCA-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Root_Cause_Localization-brown)![](https://img.shields.io/badge/Benchmark-green)
+13. [**Preprint 2024**] [Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight](https://arxiv.org/pdf/2407.08694). ![](https://img.shields.io/badge/Atlas-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
+14. [**Preprint 2025**] [AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents](https://arxiv.org/pdf/2504.06614)  ![](https://img.shields.io/badge/AgentFM-blue) ![](https://img.shields.io/badge/Agent-red) ![](https://img.shields.io/badge/Root_Cause_Analysis-green)
+15. [**Preprint 2025**] [ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.18776). ![](https://img.shields.io/badge/ThinkFL-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
 
 #### 1.4 Incident Mitigation
 
@@ -130,7 +131,8 @@ This is a list of awesome academic researches and industrial materials about Lar
 
 1. [**ICSE 2024**] [UniLog: Automatic Logging via LLM and In-Context Learning](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a129/1RLIWpCelqg). ![](https://img.shields.io/badge/UniLog-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/Cache-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
 2. [**FSE 2024**] [Go Static: Contextualized Logging Statement Generation](https://arxiv.org/pdf/2402.12958.pdf). ![](https://img.shields.io/badge/SCLogger-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
-3. [**TSE 2024**] [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/pdf/2307.05950.pdf) [[project](https://github.com/LogStudySE/LogStudy)]. ![](https://img.shields.io/badge/LogBench-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown) ![](https://img.shields.io/badge/Analysis-green)
+3. [**ISSTA 2024**] [FastLog: An End-to-End Method to Efficiently Generate and Insert Logging Statements](https://arxiv.org/pdf/2311.02862). ![](https://img.shields.io/badge/FastLog-blue) ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
+4. [**TSE 2024**] [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/pdf/2307.05950.pdf) [[project](https://github.com/LogStudySE/LogStudy)]. ![](https://img.shields.io/badge/LogBench-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown) ![](https://img.shields.io/badge/Analysis-green)
 
    
 
