@@ -1,5 +1,5 @@
 # Awesome LLM AIOps
-![](https://img.shields.io/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps?color=blue) ![](https://img.shields.io/badge/PaperNumber-61-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://badgen.net/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps) ![](https://img.shields.io/badge/PaperNumber-63-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
@@ -62,6 +62,8 @@ This is a list of awesome academic researches and industrial materials about Lar
 3. [**FSE Industry 2024**] [MonitorAssistant: Simplifying Cloud Service Monitoring via Large Language Models](https://netman.aiops.org/wp-content/uploads/2024/07/MonitorAssistant_CameraReady-v1.5_submitted.pdf). ![](https://img.shields.io/badge/MonitorAssistant-blue) ![](https://img.shields.io/badge/Anomaly_Detection-brown)
 4. [**ESEC/FSE Industry 2023**] [Assess and Summarize: Improve Outage Understanding with Large Language Models](https://arxiv.org/pdf/2305.18084). ![](https://img.shields.io/badge/Oasis-blue) ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Outage_Summarization-brown)
 5. [**Preprint 2024**] [Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection](https://arxiv.org/pdf/2405.15370v1). ![](https://img.shields.io/badge/LLMAD-blue) ![](https://img.shields.io/badge/Prompting(CoT)-red) ![](https://img.shields.io/badge/Anomaly_Detection-brown)
+6. [**Preprint 2025**] [Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models](https://arxiv.org/pdf/2501.14170). ![](https://img.shields.io/badge/Argos-blue) ![](https://img.shields.io/badge/Agent-red) ![](https://img.shields.io/badge/Anomaly_Detection-brown)
+
 
 #### 1.3 Root Cause Analysis
 
@@ -80,6 +82,8 @@ This is a list of awesome academic researches and industrial materials about Lar
 13. [**Preprint 2024**] [Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight](https://arxiv.org/pdf/2407.08694). ![](https://img.shields.io/badge/Atlas-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
 14. [**Preprint 2025**] [AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents](https://arxiv.org/pdf/2504.06614)  ![](https://img.shields.io/badge/AgentFM-blue) ![](https://img.shields.io/badge/Agent-red) ![](https://img.shields.io/badge/Root_Cause_Analysis-green)
 15. [**Preprint 2025**] [ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.18776). ![](https://img.shields.io/badge/ThinkFL-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
+16. [**Preprint 2025**] [eARCO: Efficient Automated Root Cause Analysis with Prompt Optimization](https://arxiv.org/pdf/2504.11505)  ![](https://img.shields.io/badge/eARCO-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Root_Cause_Analysis-green)
+17. 
 
 #### 1.4 Incident Mitigation
 
