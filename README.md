@@ -21,6 +21,10 @@ A list of awesome academic researches and industrial materials about Large Langu
       - [2.1 Log Parsing](#21-log-parsing)
       - [2.2 Log Anomaly Detection](#22-log-anomaly-detection)
       - [2.3 Logging Statement Generation](#23-logging-statement-generation)
+  * [3. LLM for Infrastructure Management](#3-llm-for-infrastructure-management)
+      - [3.1 Benchmark](#31-benchmark)
+      - [3.2 Vision](#32-vision)
+      - [3.3 Infrastructure-as-Code](#33-infrastructure-as-code)
   * [Contribution](#contribution)
     + [Contributing to this paper list](#contributing-to-this-paper-list)
 
@@ -68,7 +72,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 #### 1.3 Root Cause Analysis
 
 1. [**ICSE 2023**] [Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models](https://arxiv.org/pdf/2301.03797.pdf). ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Root_Cause_Generation-brown)
-2. [**EuroSys 24**] [Automatic Root Cause Analysis via Large Language Models for Cloud Incidents](https://arxiv.org/pdf/2305.15778.pdf). ![](https://img.shields.io/badge/RCACopilot-blue) ![](https://img.shields.io/badge/Prompting(CoT)-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/RCA_Classification-brown)
+2. [**EuroSys 2024**] [Automatic Root Cause Analysis via Large Language Models for Cloud Incidents](https://arxiv.org/pdf/2305.15778.pdf). ![](https://img.shields.io/badge/RCACopilot-blue) ![](https://img.shields.io/badge/Prompting(CoT)-red) ![](https://img.shields.io/badge/System-green) ![](https://img.shields.io/badge/RCA_Classification-brown)
 3. [**ICSE 2024**] [Xpert: Empowering Incident Management with Query Recommendations via Large Language Models](https://arxiv.org/pdf/2312.11988). ![](https://img.shields.io/badge/Xpert-blue)![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Diagnosis_Query_Generation-brown)
 4. [**ASE 2024**] [The Potential of One-Shot Failure Root Cause Analysis: Collaboration of the Large Language Model and Small Classifier](https://dl.acm.org/doi/10.1145/3691620.3695475). ![](https://img.shields.io/badge/LasRCA-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Fault_Classification-brown)
 5. [**FSE Industry 2024**] [LM-PACE: Confidence Estimation by Large Language Models for Effective Root Causing of Cloud Incidents](https://arxiv.org/pdf/2309.05833.pdf). ![](https://img.shields.io/badge/PACE_LM-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/RCA_Confidence_Estimation-brown)
@@ -138,7 +142,22 @@ This is a list of awesome academic researches and industrial materials about Lar
 3. [**ISSTA 2024**] [FastLog: An End-to-End Method to Efficiently Generate and Insert Logging Statements](https://arxiv.org/pdf/2311.02862). ![](https://img.shields.io/badge/FastLog-blue) ![](https://img.shields.io/badge/Finetuning-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown)
 4. [**TSE 2024**] [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/pdf/2307.05950.pdf) [[project](https://github.com/LogStudySE/LogStudy)]. ![](https://img.shields.io/badge/LogBench-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown) ![](https://img.shields.io/badge/Analysis-green)
 
-   
+## 3. LLM for Infrastructure Management
+
+#### 3.1 Benchmark
+
+1. [**NeurIPS D&B 2024**] [IaC-Eval: A Code Generation Benchmark for Cloud Infrastructure-as-Code Programs](https://proceedings.neurips.cc/paper_files/paper/2024/file/f26b29298ae8acd94bd7e839688e329b-Paper-Datasets_and_Benchmarks_Track.pdf) ![](https://img.shields.io/badge/IaC-blue) ![](https://img.shields.io/badge/Benchmark-brown)
+
+#### 3.2 Vision
+
+1. [**SIGOPS 2025**] [Cloud Infrastructure Management in the Age of AI Agents](https://dl.acm.org/doi/pdf/10.1145/3759441.3759443) ![](https://img.shields.io/badge/Vision_Paper-green) ![](https://img.shields.io/badge/Agent-red) ![](https://img.shields.io/badge/System-green)
+
+#### 3.3 Infrastructure-as-Code
+ 
+1. [**SOSP 2024**] [Unearthing Semantic Checks for Cloud Infrastructure-as-Code Programs](https://dl.acm.org/doi/pdf/10.1145/3694715.3695974). ![](https://img.shields.io/badge/IaC-blue) ![](https://img.shields.io/badge/Reliability-red) ![](https://img.shields.io/badge/checks-green) 
+2. [**AIOPS at ICSE 2025**] [Automated Bug Discovery in Cloud Infrastructure-as-Code Updates with LLM Agents](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029328) ![](https://img.shields.io/badge/Agent-red) ![](https://img.shields.io/badge/IaC-blue) ![](https://img.shields.io/badge/Reliability-red)
+3. [**AIOPS at ICSE 2025**] [Automated Lifting for Cloud Infrastructure-as-Code Programs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029329) ![](https://img.shields.io/badge/Agent-red) ![](https://img.shields.io/badge/IaC-blue) ![](https://img.shields.io/badge/Lifting-brown)
+
 
 ## Contribution
 
