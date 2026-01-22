@@ -84,6 +84,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 15. [**Preprint 2025**] [ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning](https://arxiv.org/abs/2504.18776). ![](https://img.shields.io/badge/ThinkFL-blue)![](https://img.shields.io/badge/Agent-red)![](https://img.shields.io/badge/Fault_Localization-brown)
 16. [**Preprint 2025**] [eARCO: Efficient Automated Root Cause Analysis with Prompt Optimization](https://arxiv.org/pdf/2504.11505)  ![](https://img.shields.io/badge/eARCO-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Root_Cause_Analysis-green)
 17. [**ICSE 2025**] [COCA: Generative Root Cause Analysis for Distributed Systems with Code Knowledge](https://arxiv.org/abs/2503.23051v1)  ![](https://img.shields.io/badge/COCA-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Root_Cause_Analysis-green)
+18. [**Preprint 2025**] [FVDebug: An LLM-Driven Debugging Assistant for Automated Root Cause Analysis of Formal Verification Failures](https://arxiv.org/abs/2510.15906)  ![](https://img.shields.io/badge/FVDebug-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Root_Cause_Analysis-green)
 
 #### 1.4 Incident Mitigation
 
