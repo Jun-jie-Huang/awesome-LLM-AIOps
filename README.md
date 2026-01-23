@@ -54,6 +54,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 3. [**HotNets 2023**] [A Holistic View of AI-driven Network Incident Management](https://www.microsoft.com/en-us/research/uploads/prod/2023/09/LLM4IcMs___HotNets__23-6.pdf). ![](https://img.shields.io/badge/Incident_Lifecycle-brown) ![](https://img.shields.io/badge/Analysis-green)
 4. [**Preprint 2024**] [FLASH: A Workflow Automation Agent for Diagnosing Recurring Incidents](https://www.microsoft.com/en-us/research/uploads/prod/2024/10/FLASH_Paper.pdf). ![](https://img.shields.io/badge/FLASH-blue) ![](https://img.shields.io/badge/Incident_Diagnosis-brown)
 5. [**NSDI 2024**] [NetAssistant: Dialogue Based Network Diagnosis in Data Center Networks](https://www.usenix.org/system/files/nsdi24-wang-haopei.pdf). ![](https://img.shields.io/badge/NetAssistant-blue) ![](https://img.shields.io/badge/Incident_Diagnosis-brown)
+6. [**ASE 2025**] [AlertGuardian: Intelligent Alert Life-Cycle Management for Large-scale Cloud Systems](https://arxiv.org/abs/2601.14912)  ![](https://img.shields.io/badge/AlertGuardian-blue) ![](https://img.shields.io/badge/Agent-red) ![](https://img.shields.io/badge/Lifecycle-brown)
 
 #### 1.2 Incident Reporting
 
