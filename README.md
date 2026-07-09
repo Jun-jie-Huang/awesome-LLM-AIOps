@@ -172,6 +172,11 @@ This is a list of awesome academic researches and industrial materials about Lar
 1. [**DSN 2025**] [LLMPrism: Black-box Performance Diagnosis for Production LLM Training Platforms](https://www.zhihan-jiang.com/files/DSN25/LLMPrism.pdf). ![](https://img.shields.io/badge/LLMPrism-blue) ![](https://img.shields.io/badge/Performance_Diagnosis-brown) ![](https://img.shields.io/badge/LLM_Training-green)
 
 
+
+## Resources
+
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities for AIOps model selection. Interactive catalog: https://i-need-token.github.io/ai-models/
+
 ## Contribution
 
 ### Contributing to this paper list
