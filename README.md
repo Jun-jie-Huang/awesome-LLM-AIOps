@@ -133,6 +133,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 10. [**ICPC 2025**] [Log Parsing with Self-Generated In-Context Learning and Self-Correction](https://arxiv.org/pdf/2406.03376). ![](https://img.shields.io/badge/AdaParser-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Log_Parsing-brown)
 11. [**ICSE 2025**] [LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models](https://www.arxiv.org/pdf/2408.01585). ![](https://img.shields.io/badge/LiberLog-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/Log_Parsing-brown)
 12. [**FSE 2025**] [No More Labelled Examples? An Unsupervised Log Parser with LLMs](https://arxiv.org/pdf/2406.07174). ![](https://img.shields.io/badge/LUNAR-blue) ![](https://img.shields.io/badge/Prompting-red)![](https://img.shields.io/badge/LRU-red) ![](https://img.shields.io/badge/Log_Parsing-brown)
+13. [**AAAI 2026**] [MicLog: Towards Accurate and Efficient LLM-based Log Parsing via Progressive Meta In-Context Learning](https://ojs.aaai.org/index.php/AAAI/article/view/37123) [[project](https://github.com/arjen-yu/MicLog)]. ![](https://img.shields.io/badge/MicLog-blue) ![](https://img.shields.io/badge/Prompting(ICL)-red) ![](https://img.shields.io/badge/Cache-red) ![](https://img.shields.io/badge/LogParsing-brown)
 
 #### 2.2 Log Anomaly Detection
 
