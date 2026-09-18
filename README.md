@@ -187,6 +187,7 @@ This is a list of awesome academic researches and industrial materials about Lar
 
 
 ## Resources
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 
 - [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities for AIOps model selection. Interactive catalog: https://i-need-token.github.io/ai-models/
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with LLM-powered infrastructure management, AI-driven incident response, and real-time cluster observability. CNCF Sandbox project.
